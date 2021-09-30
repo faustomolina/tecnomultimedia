@@ -36,7 +36,7 @@ ArrayList <Triangulos> rebotes;
 ArrayList <Obstaculo> obstaculos;
 ArrayList <Obstaculo> brillos;
 int puntaje;
-int puntos=50;
+int puntos=30;
 
 PImage imagenPelota;//
 PImage imagenPortada;//
